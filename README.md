@@ -59,7 +59,7 @@ If you have any questions about viasualizations or you are intrested in findings
   - Linkedin: www.linkedin.com/in/mikolajzaborowski
 
 # Next develop stages:
-  - Woring on draw selection;
+  - Working on draw selection;
   - Changing projekt to object oriented programing;
   - Creating simple web app with flask to process similar work with different lichess data profiles;
 
