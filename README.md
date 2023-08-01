@@ -9,7 +9,7 @@ Welcome to the Chess Game History Analysis repository!
    -Scikit-learn \
    -XGB classifier \
    -SeaBorn \
-   -TensorFlow \
+   -TensorFlow 
 - Tableau
 
 # Introduction
