@@ -2,6 +2,16 @@
 
 Welcome to the Chess Game History Analysis repository!
 
+# Technologies
+- Phyton
+   -Pandas
+   -NumPy
+   -Scikit-learn
+   -XGB classifier
+   -SeaBorn
+   -TensorFlow
+- Tableau
+
 # Introduction
 This project is dedicated to analyzing the history of my chess games on the Lichess platform.
 Using the powerful Lichess API, I retrieved comprehensive data on my gameplay, which served as the foundation for this analysis.
