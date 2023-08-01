@@ -49,12 +49,8 @@ If you have any questions about viasualizations or you are intrested in findings
   - Linkedin: www.linkedin.com/in/mikolajzaborowski
 
 # Next develop stages:
-  - Adding a lot more comments;
-  - Feature selection;
   - Woring on draw selection;
-  - Choosing and developing one best model;
-  - Changing projekt to obcejt oriented programing;
+  - Changing projekt to object oriented programing;
   - Creating simple web app with flask to process similar work with different lichess data profiles;
-  - not defined yet.
 
 My lichess profile - https://lichess.org/@/EvilSaintPL
