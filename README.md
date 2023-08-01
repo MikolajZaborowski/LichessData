@@ -3,13 +3,13 @@
 Welcome to the Chess Game History Analysis repository!
 
 # Technologies
-- Phyton
-   -Pandas
-   -NumPy
-   -Scikit-learn
-   -XGB classifier
-   -SeaBorn
-   -TensorFlow
+- Phyton \
+   -Pandas \
+   -NumPy \
+   -Scikit-learn \
+   -XGB classifier \
+   -SeaBorn \
+   -TensorFlow \
 - Tableau
 
 # Introduction
