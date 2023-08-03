@@ -63,4 +63,8 @@ If you have any questions about viasualizations or you are intrested in findings
   - Changing projekt to object oriented programing;
   - Creating simple web app with flask to process similar work with different lichess data profiles;
 
+# Authors
+   - https://github.com/MikolajZaborowski
+   - https://github.com/Mateusz-Matejko
+
 My lichess profile - https://lichess.org/@/EvilSaintPL
