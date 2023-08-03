@@ -28,16 +28,16 @@ Armed with this knowledge, I hope to enhance my skills and become better chess p
 Main project is in 'project' folder.
 The repository is organized as follows:
 
- - 'data/': Contains the raw and preprocessed data used in the analysis, modeling and visualisations;
- - 'notebooks/': Jupyter notebooks detailing the data cleaning, feature enginiring, feature filtering and model development process;
- - 'models/': Saved machine learning models for outcome prediction;
- - 'original_data_gathering/': notebook detaling gathering data from Lichess and simple data cleaning and data organization;
- - 'reference_data_models/': notebooks that i work on and test new staff.
+ - '[data/](data/)': Contains the raw and preprocessed data used in the analysis, modeling and visualisations;
+ - '[notebooks/](notebooks/)': Jupyter notebooks detailing the data cleaning, feature enginiring, feature filtering and model development process;
+ - '[models/](models/)': Saved machine learning models for outcome prediction;
+ - '[original_data_gathering/](original_data_gathering/)': notebook detaling gathering data from Lichess and simple data cleaning and data organization;
+ - '[reference_data_models/](reference_data_models/)': notebooks that i work on and test new staff.
 
 # Order of exploring project:
 
 1. '[project/original_data_gathering/gathering_data.ipynb](project/original_data_gathering/gathering_data.ipynb)project/original_data_gathering/gathering_data.ipynb': whole data gathering, first data cleaning and organizing data.
-2. 'project/notebooks/MASTER_DATA.ipynb': Data cleaning, feature enginiring, feature selection, different model classifiers testing, creating final best model classifiers, creating basic NN classifier
+2. '[project/notebooks/MASTER_DATA.ipynb](project/notebooks/MASTER_DATA.ipynb)': Data cleaning, feature enginiring, feature selection, different model classifiers testing, creating final best model classifiers, creating basic NN classifier
 3. Visualizations - below ↓
    
 # Viasualizations
