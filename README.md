@@ -36,7 +36,7 @@ The repository is organized as follows:
 
 # Order of exploring project:
 
-1. 'project/original_data_gathering/gathering_data.ipynb': whole data gathering, first data cleaning and organizing data.
+1. '[project/original_data_gathering/gathering_data.ipynb](project/original_data_gathering/gathering_data.ipynb)project/original_data_gathering/gathering_data.ipynb': whole data gathering, first data cleaning and organizing data.
 2. 'project/notebooks/MASTER_DATA.ipynb': Data cleaning, feature enginiring, feature selection, different model classifiers testing, creating final best model classifiers, creating basic NN classifier
 3. Visualizations - below ↓
    
