@@ -41,8 +41,8 @@ The repository is organized as follows:
 3. Visualizations - below ↓
    
 # Viasualizations
-The important visuals with key findings are created in Tableau at this link: 
-  https://public.tableau.com/views/Chess_Analysis/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+The important visuals with key findings are created in Tableau: 
+  [Visualizations](https://public.tableau.com/views/Chess_Analysis/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
   Quick informations about visuals:
    - 'Chess openings': winrate for every opening (4 first moves) from top 20 most frequent ( diff for me as white and as black ), color -> numer of games played with that opening;
    - 'Number of moves played per player': Number of games played (Y axis) by number of moves played in game (grouped by 3 moves) (X axis), color -> winrate for number of moves;
@@ -52,7 +52,7 @@ The important visuals with key findings are created in Tableau at this link:
    - 'Time of games': Number of games played (Y axis) by total duration of game in seconds (grouped by 20 seconds) (X axis), color -> winrate for game duration;
 
 Additionly plot of my ranking points for different speeds + number of games played in time:
-  https://public.tableau.com/views/Book2_16890080408260/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+  [Visualization](https://public.tableau.com/views/Book2_16890080408260/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 If you have any questions about viasualizations or you are intrested in findings fell free to reach my via:
   - email: mikolajzaborowski2000@gmail.com
