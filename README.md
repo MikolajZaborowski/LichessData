@@ -29,7 +29,7 @@ Main project is in 'project' folder.
 The repository is organized as follows:
 
  - '[data/](project/data)': Contains the raw and preprocessed data used in the analysis, modeling and visualisations;
- - '[notebooks/](project/notebooks)': Jupyter notebooks detailing the data cleaning, feature enginiring, feature filtering and model development process;
+ - '[notebooks/](project/notebooks)': Jupyter notebooks detailing the data cleaning, feature engineering, feature filtering and model development process;
  - '[models/](project/models)': Saved machine learning models for outcome prediction;
  - '[original_data_gathering/](project/original_data_gathering)': notebook detaling gathering data from Lichess and simple data cleaning and data organization;
  - '[reference_data_models/](project/reference_data_models)': notebooks that I work on and test new staff.
