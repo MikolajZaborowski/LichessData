@@ -32,26 +32,26 @@ The repository is organized as follows:
  - '[notebooks/](project/notebooks)': Jupyter notebooks detailing the data cleaning, feature enginiring, feature filtering and model development process;
  - '[models/](project/models)': Saved machine learning models for outcome prediction;
  - '[original_data_gathering/](project/original_data_gathering)': notebook detaling gathering data from Lichess and simple data cleaning and data organization;
- - '[reference_data_models/](project/reference_data_models)': notebooks that i work on and test new staff.
+ - '[reference_data_models/](project/reference_data_models)': notebooks that I work on and test new staff.
 
 # Order of exploring project:
 
-1. '[project/original_data_gathering/gathering_data.ipynb](project/original_data_gathering/gathering_data.ipynb)project/original_data_gathering/gathering_data.ipynb': whole data gathering, first data cleaning and organizing data.
-2. '[project/notebooks/MASTER_DATA.ipynb](project/notebooks/Main_Notebook.ipynb)': Data cleaning, feature enginiring, feature selection, different model classifiers testing, creating final best model classifiers, creating basic NN classifier
+1. '[project/original_data_gathering/gathering_data.ipynb](project/original_data_gathering/gathering_data.ipynb)': Whole data gathering, first data cleaning and organizing data.
+2. '[project/notebooks/MASTER_DATA.ipynb](project/notebooks/Main_Notebook.ipynb)': Data cleaning, feature engineering, feature selection, different model classifiers testing, creating final best model classifiers, creating basic NN classifier
 3. Visualizations - below ↓
    
 # Viasualizations
 The important visuals with key findings are created in Tableau: 
   [Visualizations](https://public.tableau.com/views/Chess_Analysis/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
   Quick informations about visuals:
-   - 'Chess openings': winrate for every opening (4 first moves) from top 20 most frequent ( diff for me as white and as black ), color -> numer of games played with that opening;
+   - 'Chess openings': winrate for every opening (4 first moves) from top 20 most frequent ( different for me as white and as black ), color -> numer of games played with that opening;
    - 'Number of moves played per player': Number of games played (Y axis) by number of moves played in game (grouped by 3 moves) (X axis), color -> winrate for number of moves;
    - 'Rank difference': Number of games played (Y axis) by rank difference (grouped by 20 rank points) (X axis), color -> winrate for rank difference;
    - 'My moves before castle': Number of games played (Y axis) by number of my moves played before castle (grouped by 3 moves) (X axis), color -> winrate for number of moves before castle;
    - 'Enemy moves before castle': Number of games played (Y axis) by number of enemy moves played before castle (grouped by 3 moves) (X axis), color -> winrate for number of moves before castle;
    - 'Time of games': Number of games played (Y axis) by total duration of game in seconds (grouped by 20 seconds) (X axis), color -> winrate for game duration;
 
-Additionly plot of my ranking points for different speeds + number of games played in time:
+Additionally plot of my ranking points for different speeds + number of games played in time:
   [Visualization](https://public.tableau.com/views/Book2_16890080408260/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 If you have any questions about viasualizations or you are intrested in findings fell free to reach my via:
@@ -60,7 +60,7 @@ If you have any questions about viasualizations or you are intrested in findings
 
 # Next develop stages:
   - Working on attributes of draws results;
-  - Changing projekt to object oriented programing;
+  - Changing project to object oriented programing;
   - Creating simple web app with flask to process similar work with different lichess data profiles;
 
 # Authors
